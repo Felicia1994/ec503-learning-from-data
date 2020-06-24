@@ -1,3 +1,3 @@
 ### assignment6
 
-SVM Classifier for Text Documents
+jingma_assignment6_2: SVM Classifier for Text Documents
