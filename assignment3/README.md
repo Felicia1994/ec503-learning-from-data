@@ -1,4 +1,4 @@
-# assignment3
+### assignment3
 
 jingma_assignment3_2: Gaussian Discriminant Analysis
 
